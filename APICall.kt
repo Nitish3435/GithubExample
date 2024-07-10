@@ -1,3 +1,7 @@
+//Make Sure you add dependencies in build.gradle file for Retrofit and Gson
+// Add Permission for Internet in Android Manifest file
+
+
 package com.example.siliconandroidbatch2
 
 import android.os.Bundle
